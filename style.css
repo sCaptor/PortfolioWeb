@@ -108,9 +108,7 @@ Section{
 	max-width: 800px;
 }
 .cardmargins {
-    margin: auto;
-	
-    max-width: 55%; /* o cualquier valor que desees */
+	padding: 20px; /* o cualquier valor que desees */
 }
 
 .lista {
